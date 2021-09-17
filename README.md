@@ -1,8 +1,8 @@
-## Sept - Dec | 2021 Collection
+## Sept - Dec | 2021 Collection | View [Website](https://sept-dec-21-collection.deztech.repl.co)  
 
 This is a collection of projects made between September and December 2021. The original markdown is left at the bottom of this file to preserve credits given by the orginal template developer, lilykhan (https://repl.it/@lilykhan) and other collaborators. 
 
-View [website](https://sept-dec-21-collection.deztech.repl.co)
+[Website Link](https://sept-dec-21-collection.deztech.repl.co)  
 Courtesy of replit
 
 ## Portfolio Website Template
